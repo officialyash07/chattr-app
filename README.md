@@ -90,7 +90,7 @@ Make sure you have the following installed:
 
     ```bash
     git clone https://github.com/officialyash07/chattr-app.git
-    cd chattr-app-frontend
+    cd chattr-app
     ```
 
 2. **Install dependencies**
