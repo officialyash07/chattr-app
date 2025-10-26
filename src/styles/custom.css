@@ -1,0 +1,27 @@
+.p-10 {
+    padding: 10px;
+}
+
+.stick {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+.button {
+    width: 25px;
+    border: none;
+    outline: none;
+    background-color: transparent;
+}
+
+.avatar {
+    width: 100%;
+    aspect-ratio: 1;
+    border-radius: 50%;
+    box-shadow: var(--shadow);
+}
+
+.theme-Btn img {
+    width: 25px;
+}
